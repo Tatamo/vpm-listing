@@ -1,7 +1,7 @@
 {
     "name":"Tatamo VPM Listing",
     "id":"zip.udon.vpm",
-    "url":"https://Tatamo.github.io/vpm-listing/index.json",
+    "url":"https://vpm.udon.zip/index.json",
     "author":{
         "name":"Tatamo",
         "url":"https://github.com/Tatamo"
