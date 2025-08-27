@@ -1,12 +1,12 @@
 {
-    "name":"Tatamo VPM Listing",
+    "name":"Tatamo",
     "id":"zip.udon.vpm",
     "url":"https://vpm.udon.zip/index.json",
     "author":{
         "name":"Tatamo",
         "url":"https://github.com/Tatamo"
     },
-    "description":"listing of vpm packages developed by Tatamo",
+    "description":"listing of vpm packages by Tatamo",
     "infoLink":{
         "url":"https://github.com/Tatamo/vpm-listing",
         "text":"View on GitHub"
